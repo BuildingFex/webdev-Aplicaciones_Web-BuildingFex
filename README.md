@@ -33,12 +33,12 @@ requiere descargas!** Solo abre tu navegador web.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Consejos clave**: Aplicar estilos y depurar errores.
 - **Proyecto Final**: [Crea tu Perfil](https://codepen.io/pen/) 👈 **¡Guarda y comparte!**
-### Lección 6: 6. Arma tu página de perfil (10 min)
+### Lección 6: Arma tu página de perfil (10 min)
 - **Descripción**: Combina tus conocimientos de HTML y CSS para construir tu propia tarjeta de presentación en internet.
 - **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
 - **Consejos Clave**: Consejos clave: Une la estructura de HTML (`<h1>`, `<img>`, `<ul>`) con el diseño de CSS (background-color, border-radius) para darle vida a tu perfil web.
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡Comienza al instante!**
-### Lección 7: 7. Errores comunes y próximos pasos (6 min)
+### Lección 7: Errores comunes y próximos pasos (6 min)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
