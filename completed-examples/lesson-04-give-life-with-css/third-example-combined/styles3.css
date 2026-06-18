@@ -1,0 +1,24 @@
+body {
+    background-color: #eef2ff;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #2563eb;
+    font-family: Georgia, serif;
+}
+
+h2 {
+    color: #1d4ed8;
+    font-family: Verdana, sans-serif;
+}
+
+p {
+    color: #444444;
+    font-family: Arial, sans-serif;
+}
+
+blockquote {
+    color: #7c3aed;
+    font-family: "Times New Roman", serif;
+}
