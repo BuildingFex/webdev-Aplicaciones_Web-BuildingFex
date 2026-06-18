@@ -13,9 +13,9 @@ requiere descargas!** Solo abre tu navegador web.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 - **Empieza a programar**: [Open CodePen](https://codepen.io/pen/)
-### Lección 2: Tu primera página: HTML básico (10 min)
+### Lección 2: Tu primera página: HTML básico (6 min)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://youtu.be/_N330gEW8kc)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡No necesitas registrarte!**
 ### Lección 3: Más contenido: listas, imágenes y enlaces (9 min)
@@ -23,9 +23,9 @@ requiere descargas!** Solo abre tu navegador web.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡Comienza al instante!**
-### Lección 4: Dar vida con CSS: colores y fuentes (8 min)
+### Lección 4: Dar vida con CSS: colores y fuentes (7 min)
 - **Descripción**: Dale vida y personaliza tu pagina web con colores y tipografia de CSS.
-- **Enlace**: [Ver la lección](https://youtu.be/CVB1cLEW3EM)
+- **Enlace**: [Ver la lección](https://youtu.be/cFS_Lb1gOFY)
 - **Consejos clave**: Usa CSS para dar estilo sin modificar el HTML, aplicando propiedades básicas como color para textos, background-color para fondos y font-family para tipografías; mantén una paleta reducida de colores y pocas fuentes (2 o 3) para asegurar coherencia visual y utiliza buen contraste para mejorar la legibilidad.
 - **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/) 👈 **¡No es necesario registrarse!**
 ### Lección 5: Diseño y espaciado: que se vea ordenado (9 min)
@@ -33,9 +33,9 @@ requiere descargas!** Solo abre tu navegador web.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Consejos clave**: Aplicar estilos y depurar errores.
 - **Proyecto Final**: [Crea tu Perfil](https://codepen.io/pen/) 👈 **¡Guarda y comparte!**
-### Lección 6: Arma tu página de perfil (10 min)
+### Lección 6: Arma tu página de perfil (11 min)
 - **Descripción**: Combina tus conocimientos de HTML y CSS para construir tu propia tarjeta de presentación en internet.
-- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver Lección](https://youtu.be/AU_rRNva7Dk)
 - **Consejos Clave**: Consejos clave: Une la estructura de HTML (`<h1>`, `<img>`, `<ul>`) con el diseño de CSS (background-color, border-radius) para darle vida a tu perfil web.
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡Comienza al instante!**
 ### Lección 7: Errores comunes y próximos pasos (6 min)
