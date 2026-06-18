@@ -1,4 +1,4 @@
-Guion de Clase: Arma y comparte tu página de perfil (10 min)
+Guion de Clase: Arma tu página de perfil (10 min)
 
 0:00 - 1:30 | Introducción y Motivación
 "¡Hola a todos! Soy Alejandro. En las sesiones anteriores exploramos qué son las etiquetas HTML y cómo aplicar color con CSS. Hoy vamos a integrar todo eso para construir algo genial: ¡su propia página de perfil! Es su tarjeta de presentación en la web. Trabajaremos directamente en el navegador usando CodePen, así que no necesitamos instalar nada. ¡Comencemos a programar!"
@@ -23,4 +23,4 @@ Vamos al archivo style.css. Primero, definiremos un color de fondo para la pági
 "Es probable que nuestra foto de perfil se vea demasiado grande o con forma cuadrada. En nuestro CSS, seleccionaremos la etiqueta img, ajustaremos su tamaño y aplicaremos una regla muy útil: border-radius: 50%;. Esto transformará la imagen en un círculo perfecto. ¡Hagan la prueba en sus pantallas!"
 
 9:00 - 10:00 | Despliegue y Cierre
-"¡Miren el excelente resultado! Lo más interesante de crear aplicaciones web es poder compartirlas. Al usar Replit, nuestra página ya cuenta con un despliegue (deployment) funcional en internet. Solo deben copiar el enlace de la vista previa y enviarlo a sus amigos. Para el proyecto de esta sección, quiero que modifiquen los colores, las fuentes y agreguen sus propias fotografías. ¡Nos vemos en la siguiente sesión!"
+"¡Miren el excelente resultado! Para el proyecto de esta sección, quiero que modifiquen los colores, las fuentes y agreguen sus propias fotografías. ¡Nos vemos en la siguiente sesión!"
