@@ -1,0 +1,40 @@
+/* ESTILOS BASE - ¡No modifiques esta parte! */
+/* Esto se encarga de centrar la tarjeta en la pantalla y darle un color de fondo a la página */
+body {
+    background-color: #e0f7fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+/* =========================================
+   ¡AQUÍ EMPIEZA TU CÓDIGO!
+   ========================================= */
+
+/* 1. Dale estilo a tu contenedor principal (fondo blanco, bordes redondeados, relleno) */
+.tarjeta-perfil {
+    
+}
+
+/* 2. Haz que tu foto de perfil tenga un tamaño adecuado y sea circular */
+img {
+    
+}
+
+/* 3. Aplica color y ajusta los márgenes de tu nombre */
+h1 {
+    
+}
+
+/* 4. Cambia el color del texto de tu descripción */
+p {
+    
+}
+
+/* 5. Modifica el estilo de tu lista de pasatiempos */
+ul {
+    
+}
