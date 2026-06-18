@@ -1,0 +1,56 @@
+/* ESTILOS BASE - ¡No modifiques esta parte! */
+
+body {
+    background-color: #e0f7fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+/* =========================================
+   ¡AQUÍ EMPIEZA TU CÓDIGO!
+   SOLO USA COLORES Y TIPOGRAFÍAS
+   ========================================= */
+
+/* 1. TARJETA PRINCIPAL */
+.tarjeta-perfil {
+    /* Fondo: blanco */
+
+    /* Tipografía: Arial */
+
+}
+
+/* 2. TÍTULO PRINCIPAL (h1) */
+h1 {
+    /* Color: azul fuerte (#2563eb) */
+
+    /* Tipografía: Georgia */
+
+}
+
+/* 3. SUBTÍTULO (h2) */
+h2 {
+    /* Color: azul más oscuro (#1d4ed8) */
+
+    /* Tipografía: Verdana */
+
+}
+
+/* 4. PÁRRAFO (p) */
+p {
+    /* Color: gris oscuro (#444444) */
+
+    /* Tipografía: Arial */
+
+}
+
+/* 5. LISTA (ul) */
+ul {
+    /* Color: verde (#15803d) */
+
+    /* Tipografía: Arial */
+
+}

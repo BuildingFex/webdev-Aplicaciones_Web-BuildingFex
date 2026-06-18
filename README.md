@@ -23,10 +23,10 @@ requiere descargas!** Solo abre tu navegador web.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡Comienza al instante!**
-### Lección 4: Dale vida con CSS: colores y fuentes (10 min)
-- **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
-- **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
+### Lección 4: Dar vida con CSS: colores y fuentes (8 min)
+- **Descripción**: Dale vida y personaliza tu pagina web con colores y tipografia de CSS.
+- **Enlace**: [Ver la lección](https://youtu.be/CVB1cLEW3EM)
+- **Consejos clave**: Usa CSS para dar estilo sin modificar el HTML, aplicando propiedades básicas como color para textos, background-color para fondos y font-family para tipografías; mantén una paleta reducida de colores y pocas fuentes (2 o 3) para asegurar coherencia visual y utiliza buen contraste para mejorar la legibilidad.
 - **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/) 👈 **¡No es necesario registrarse!**
 ### Lección 5: Diseño y espaciado: que se vea ordenado (9 min)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
