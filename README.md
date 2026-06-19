@@ -20,7 +20,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡No necesitas registrarte!**
 ### Lección 3: Más contenido: listas, imágenes y enlaces (9 min)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=mpCDegsL800)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡Comienza al instante!**
 ### Lección 4: Dar vida con CSS: colores y fuentes (7 min)
