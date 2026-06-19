@@ -30,7 +30,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/) 👈 **¡No es necesario registrarse!**
 ### Lección 5: Diseño y espaciado: que se vea ordenado (9 min)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=GH2O0wh3X1s)
 - **Consejos clave**: Aplicar estilos y depurar errores.
 - **Proyecto Final**: [Crea tu Perfil](https://codepen.io/pen/) 👈 **¡Guarda y comparte!**
 ### Lección 6: Arma tu página de perfil (11 min)
