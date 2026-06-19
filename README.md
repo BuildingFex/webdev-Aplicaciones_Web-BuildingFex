@@ -8,9 +8,9 @@ requiere descargas!** Solo abre tu navegador web.
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 **📂 Repositorio de código fuente**: [https://github.com/BuildingFex/webdev-Aplicaciones_Web-BuildingFex](https://github.com/BuildingFex/webdev-Aplicaciones_Web-BuildingFex)
 ## Secuencia de la lección
-### Lección 1: ¿Qué es una página web y cómo se construye? (6 min)
+### Lección 1: ¿Qué es una página web y cómo se construye? (6:43 min)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección](https://youtu.be/OMrOQLz0UCE)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 - **Empieza a programar**: [Open CodePen](https://codepen.io/pen/)
 ### Lección 2: Tu primera página: HTML básico (6 min)
@@ -40,7 +40,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡Comienza al instante!**
 ### Lección 7: Errores comunes y próximos pasos (6 min)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=N_oUIr9YPTw)
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
 - **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
 ## Recursos Adicionales
